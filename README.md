@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis for Brazil
 
-This projet does an Exploratory Data Analysis and some simple predictions on the dataset made available by the brazilian Ministry of Health, that contains daily numbers on infections and death for brazilian states. The idea was to have more insights for the COVID-19 status in Brazil and Rio de Janeiro, where the author lives.
+This projet does an Exploratory Data Analysis (and some simple predictions) of the dataset made available by the brazilian Ministry of Health, that contains daily numbers on infections and death for brazilian states. The idea was to have more insights for the COVID-19 status in Brazil and Rio de Janeiro, where the author lives.
 
 ## Authors
 
@@ -11,10 +11,6 @@ This projet does an Exploratory Data Analysis and some simple predictions on the
 arquivo_geral.csv: dataset file with dauly infections and deaths by state from the brazilian Ministry of Health.
 
 COVID19-DataAnalysisForBrazil.ipynb: jupiter notebook file for the data analysis.
-
-## Additional Information
-
-A folder "data" is needed in the project directory with all the csv files of the dataset, that can be found in the links below. 
 
 ## License
 
