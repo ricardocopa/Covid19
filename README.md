@@ -9,6 +9,7 @@ This projet does an Exploratory Data Analysis (and some simple predictions) of t
 ## Included Files
 
 COVID19-DataAnalysisForBrazil.ipynb: jupiter notebook file for the data analysis.
+
 FileDownload.ipynb: jupiter notebook file that access the Ministry of Health website (covid.saude.org), simulates the click and download the dataset file in an automatic way (used for the covid.rj1.info site update automation).
 
 ## License
